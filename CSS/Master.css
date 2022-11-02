@@ -1,0 +1,13 @@
+div {
+    float: left;
+    height: auto;
+    background-color: red;
+    width: 25%;
+    padding: auto;
+}
+
+.clear {
+    clear: both;
+}
+
+span {}
